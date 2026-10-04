@@ -1,0 +1,4 @@
+-- Verification of generated database
+-- categories: 7 rows
+-- partners_import: 52 rows
+-- bookings: 600 rows
