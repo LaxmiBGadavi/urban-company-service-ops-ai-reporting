@@ -1,23 +1,16 @@
-# Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
-
-## Project Overview
-
+Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
+Project Overview
 This project analyzes Urban Company-style service operations data to identify trends in bookings, revenue, city performance, category performance, and SLA breaches.
 
 The project connects four stages into one workflow:
 
-- Part A — Data Setup, Python Sanity Check & SQL Diagnostic
-- Part B — KPI Reporting in Excel
-- Part C — Tableau Public Dashboard & Stakeholder Storytelling
-- Part D — AI-Augmented Reporting & Complaint Escalation Specification
-
+Part A — Data Setup, Python Sanity Check & SQL Diagnostic
+Part B — KPI Reporting in Excel
+Part C — Tableau Public Dashboard & Stakeholder Storytelling
+Part D — AI-Augmented Reporting & Complaint Escalation Specification
 The objective is to ensure that the data and business metrics remain consistent across Python, SQL, Excel, Tableau, and AI-assisted reporting.
 
----
-
-## Project Workflow
-
-```text
+Project Workflow
 Data Generation
       ↓
 Data Validation & Cleaning
