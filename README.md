@@ -1,14 +1,10 @@
-# Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
-
-## Project Overview
-
+Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
+Project Overview
 This project analyzes Urban Company service-operations data to identify trends in bookings, revenue, city performance, category performance, and SLA breaches.
 
 The project combines data analysis, SQL, Excel reporting, Tableau visualization, and AI-assisted operational reporting.
 
-## Project Workflow
-
-```text
+Project Workflow
 Data Generation
       ↓
 Data Validation & Cleaning
@@ -39,8 +35,5 @@ Python | SQL | SQLite | Excel | Tableau Public | AI / Prompt Engineering
 
 ## Tableau Public Dashboard
 
-[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/laxmi.g7878/viz/urbanserviceoperationsdashboard/Urbanserviceoperationsdashboard?publish=yes)
-
-
-
+https://public.tableau.com/app/profile/laxmi.g7878/viz/urbanserviceoperationsdashboard/Urbanserviceoperationsdashboard?publish=yes
 
