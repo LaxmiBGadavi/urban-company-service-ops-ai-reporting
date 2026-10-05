@@ -1,5 +1,5 @@
-Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
-Project Overview
+# Urban Company Service-Ops Diagnostic & AI-Augmented Reporting Toolkit
+## Project Overview
 This project analyzes Urban Company-style service operations data to identify trends in bookings, revenue, city performance, category performance, and SLA breaches.
 
 The project connects four stages into one workflow:
